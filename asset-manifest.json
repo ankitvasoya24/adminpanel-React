@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ankitvasoya24/Adminpanel-React.git/static/css/main.3982bb5f.css",
+    "main.js": "/ankitvasoya24/Adminpanel-React.git/static/js/main.31966029.js",
+    "static/js/453.cd49ec80.chunk.js": "/ankitvasoya24/Adminpanel-React.git/static/js/453.cd49ec80.chunk.js",
+    "index.html": "/ankitvasoya24/Adminpanel-React.git/index.html",
+    "main.3982bb5f.css.map": "/ankitvasoya24/Adminpanel-React.git/static/css/main.3982bb5f.css.map",
+    "main.31966029.js.map": "/ankitvasoya24/Adminpanel-React.git/static/js/main.31966029.js.map",
+    "453.cd49ec80.chunk.js.map": "/ankitvasoya24/Adminpanel-React.git/static/js/453.cd49ec80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3982bb5f.css",
+    "static/js/main.31966029.js"
+  ]
+}
